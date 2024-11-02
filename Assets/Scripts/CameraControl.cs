@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour
 {
-    public Camera cameraObj;
+    
     public GameObject target;
     public float speed = 2f;
 
@@ -13,13 +13,13 @@ public class CameraControl : MonoBehaviour
 
     void RotateCamera()
     {
-        cameraObj.transform.eulerAngles =new Vector3(cameraObj.transform.eulerAngles.x, cameraObj.transform.eulerAngles.y, 0);
+        transform.eulerAngles =new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, 0);
 
         if(Input.GetMouseButton(1))
         {
-            cameraObj.transform.RotateAround(target.transform.position, Vector3.up, Input.GetAxis("Mouse X")*speed);
+            transform.RotateAround(target.transform.position, Vector3.up, Input.GetAxis("Mouse X")*speed);
 
-            cameraObj.transform.RotateAround(target.transform.position, Vector3.right, -Input.GetAxis("Mouse Y")*speed);
+            transform.RotateAround(target.transform.position, Vector3.right, -Input.GetAxis("Mouse Y")*speed);
             
             transform.LookAt(target.transform);
         } 
