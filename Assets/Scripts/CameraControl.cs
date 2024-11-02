@@ -41,13 +41,13 @@ public class CameraControl : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
-            {
-                offset = new Vector3(0,0,0);
-            }
+        {
+            offset = new Vector3(0, 0, 0);
+        }
 
         if (target)
         {
-            if (Input.GetMouseButton(0))
+            if (Input.GetMouseButton(2))
             {
                 offset += new Vector3(-Input.GetAxis("Mouse X") * xSpeed * 0.004f * Pan * Time.deltaTime * 200, -Input.GetAxis("Mouse Y") * ySpeed * 0.004f * Pan * Time.deltaTime * 200, 0);
             }
