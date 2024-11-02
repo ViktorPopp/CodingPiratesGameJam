@@ -12,6 +12,9 @@ public class CameraControl : MonoBehaviour
     public float distanceMax = 15f;
 
     public float sensitivity = .5f;
+    public float Pan = 1f;
+
+    private float offset = 0f;
 
     private Rigidbody rigidbody;
 
@@ -34,15 +37,20 @@ public class CameraControl : MonoBehaviour
         }
     }
 
-    void LateUpdate()
+    void Update()
     {
 
         if (target)
         {
+            if (Input.GetMouseButton(0))
+            {
+                offset += Input.GetAxis("Mouse X") * xSpeed * 0.02f * Pan * Time.deltaTime * 200;
+                offset -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * Pan * Time.deltaTime * 200;
+            }
             if (Input.GetMouseButton(1))
             {
-                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f * sensitivity;
-                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * sensitivity;
+                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.01f * sensitivity * Time.deltaTime * 200;
+                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * sensitivity * Time.deltaTime * 200;
             }
             y = ClampAngle(y, yMinLimit, yMaxLimit);
 
