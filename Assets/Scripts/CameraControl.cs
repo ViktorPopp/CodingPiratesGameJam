@@ -8,8 +8,10 @@ public class CameraControl : MonoBehaviour
     public float yMinLimit = -20f;
     public float yMaxLimit = 80f;
 
-    public float distanceMin = .5f;
+    public float distanceMin = 3f;
     public float distanceMax = 15f;
+
+    public float sensitivity = .5f
 
     private Rigidbody rigidbody;
 
@@ -56,8 +58,8 @@ public class CameraControl : MonoBehaviour
             Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
             Vector3 position = rotation * negDistance + target.position;
             if (Input.GetMouseButton(1))
-                transform.rotation = rotation;
-            transform.position = position;
+                transform.rotation = rotation / sensitivity;
+            transform.position = position / sensitivity;
 
 
         }
