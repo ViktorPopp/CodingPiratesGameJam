@@ -12,9 +12,10 @@ public class CameraControl : MonoBehaviour
     public float distanceMax = 15f;
 
     public float sensitivity = .5f;
+
     public float Pan = 1f;
 
-    private float offset = 0f;
+    public Vector3 offset;
 
     private Rigidbody rigidbody;
 
@@ -39,13 +40,16 @@ public class CameraControl : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.R))
+            {
+                offset = new Vector3(0,0,0);
+            }
 
         if (target)
         {
             if (Input.GetMouseButton(0))
             {
-                offset += Input.GetAxis("Mouse X") * xSpeed * 0.02f * Pan * Time.deltaTime * 200;
-                offset -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * Pan * Time.deltaTime * 200;
+                offset += new Vector3(-Input.GetAxis("Mouse X") * xSpeed * 0.004f * Pan * Time.deltaTime * 200, -Input.GetAxis("Mouse Y") * ySpeed * 0.004f * Pan * Time.deltaTime * 200, 0);
             }
             if (Input.GetMouseButton(1))
             {
@@ -63,8 +67,9 @@ public class CameraControl : MonoBehaviour
             {
                 distance -= hit.distance;
             }
+
             Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
-            Vector3 position = rotation * negDistance + target.position;
+            Vector3 position = rotation * negDistance + target.position + offset;
             if (Input.GetMouseButton(1))
                 transform.rotation = rotation;
             transform.position = position;
