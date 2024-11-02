@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 330585544}
   - component: {fileID: 330585547}
   - component: {fileID: 330585548}
+  - component: {fileID: 330585549}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -206,13 +207,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.028323432, w: 0.99959886}
-  m_LocalPosition: {x: 0, y: 1, z: -5.72}
+  m_LocalRotation: {x: -0.00022277773, y: 0.007862342, z: -0.028322538, w: 0.9995679}
+  m_LocalPosition: {x: -0.000000007503902, y: 1, z: -5.72}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -3.246}
+  m_LocalEulerAnglesHint: {x: 0, y: 0.901, z: -3.246}
 --- !u!114 &330585547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -269,9 +270,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 144b7613b9bc40144813d63a52eecf1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraObj: {fileID: 330585545}
-  target: {fileID: 610996558}
-  speed: 2
+  target: {fileID: 610996562}
+  distance: 5
+  xSpeed: 120
+  ySpeed: 120
+  yMinLimit: -20
+  yMaxLimit: 80
+  distanceMin: 2.5
+  distanceMax: 15
+  sensitivity: 0.5
+--- !u!54 &330585549
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330585543}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 14
+  m_CollisionDetection: 0
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
