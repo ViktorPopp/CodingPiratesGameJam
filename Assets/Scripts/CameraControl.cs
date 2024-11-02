@@ -34,15 +34,15 @@ public class CameraControl : MonoBehaviour
         }
     }
 
-    void LateUpdate()
+    void Update()
     {
 
         if (target)
         {
             if (Input.GetMouseButton(1))
             {
-                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f * sensitivity;
-                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * sensitivity;
+                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f * sensitivity * Time.deltaTime * 200;
+                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * sensitivity * Time.deltaTime * 200;
             }
             y = ClampAngle(y, yMinLimit, yMaxLimit);
 
