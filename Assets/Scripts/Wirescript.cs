@@ -38,4 +38,3 @@ public class Wirescript : MonoBehaviour
     }
 
 }
-//(new Vector3(first.transform.position.x, first.transform.position.y, first.transform.position.z) + new Vector3(second.transform.position.x, second.transform.position.y, second.transform.position.z));
