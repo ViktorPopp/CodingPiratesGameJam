@@ -11,7 +11,7 @@ public class CameraControl : MonoBehaviour
     public float distanceMin = 3f;
     public float distanceMax = 15f;
 
-    public float sensitivity = .5f
+    public float sensitivity = .5f;
 
     private Rigidbody rigidbody;
 
@@ -41,8 +41,8 @@ public class CameraControl : MonoBehaviour
         {
             if (Input.GetMouseButton(1))
             {
-                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f;
-                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;
+                x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f * sensitivity;
+                y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f * sensitivity;
             }
             y = ClampAngle(y, yMinLimit, yMaxLimit);
 
@@ -58,8 +58,8 @@ public class CameraControl : MonoBehaviour
             Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
             Vector3 position = rotation * negDistance + target.position;
             if (Input.GetMouseButton(1))
-                transform.rotation = rotation / sensitivity;
-            transform.position = position / sensitivity;
+                transform.rotation = rotation;
+            transform.position = position;
 
 
         }
