@@ -31,7 +31,7 @@ public class Wirescript : MonoBehaviour
             //wire.transform.position = first.transform.position;
             wire.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
             wire.transform.LookAt(second.transform.position, first.transform.position);
-            wire.transform.Rotate(wire.transform.rotation.x, wire.transform.rotation.y, wire.transform.rotation.z - 90f, 0f);
+            wire.transform.Rotate(wire.transform.rotation.x, wire.transform.rotation.y, wire.transform.rotation.z, 0f);
             first = null;
             second = null;
         }
