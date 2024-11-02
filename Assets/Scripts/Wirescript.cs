@@ -3,11 +3,13 @@ using UnityEngine;
 public class Wirescript : MonoBehaviour
 {
     public GameObject first;
-    public GameObject Second;
+    public GameObject second;
 
     private Ray ray;
     private RaycastHit hit;
     public GameObject wire;
+    public Vector3 test;
+    public Vector3 middel;
 
     // Update is called once per frame
     void Update()
@@ -20,18 +22,20 @@ public class Wirescript : MonoBehaviour
                 if (!first)
                     first = hit.collider.gameObject;
                 else
-                    Second = hit.collider.gameObject;
+                    second = hit.collider.gameObject;
             }
         }
-        if (first && Second)
-        {
-            Instantiate(wire, (first.transform.position + Second.transform.position) / 2f, Quaternion.identity);
+        if (first && second)
+        { 
+            wire = Instantiate(wire, first.transform.position, new Quaternion(0,0,0,0));
+            //wire.transform.position = first.transform.position;
+            wire.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+            wire.transform.LookAt(second.transform.position, first.transform.position);
+            wire.transform.Rotate(wire.transform.rotation.x, wire.transform.rotation.y, wire.transform.rotation.z - 90f, 0f);
             first = null;
-            Second = null;
+            second = null;
         }
     }
-    void OnMouseOver()
-    {
-        print(gameObject.name);
-    }
+
 }
+//(new Vector3(first.transform.position.x, first.transform.position.y, first.transform.position.z) + new Vector3(second.transform.position.x, second.transform.position.y, second.transform.position.z));
