@@ -4,6 +4,6 @@ public class GameManager : MonoBehaviour
 {
     void Update()
     {
-        HouseSpawner.SpawnHouse();
+        this.gameObject.GetComponentInChildren<HouseSpawner>(true).SpawnHouse();
     }
 }
