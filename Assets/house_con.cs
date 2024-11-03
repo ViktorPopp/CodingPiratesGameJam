@@ -4,6 +4,7 @@ using UnityEngine;
 public class house_con : MonoBehaviour
 {
     public bool conn = false;
+    private bool isOn;
     public GameObject Error;
     public connection connectio;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -21,7 +22,7 @@ public class house_con : MonoBehaviour
         Error.SetActive(true); 
             
         
-        Overlapcheck(transform.position, 30f);
+        Overlapcheck(transform.position, 10f);
     }
     void Overlapcheck(Vector3 center, float radius)
     {
