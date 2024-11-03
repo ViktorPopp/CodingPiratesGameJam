@@ -865,6 +865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2815882914556304291}
   - component: {fileID: 8912258298435977692}
+  - component: {fileID: -8354673500277101189}
   m_Layer: 0
   m_Name: lowpolyhouse1
   m_TagString: Untagged
@@ -916,3 +917,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2, y: 2.6365457, z: 2}
   m_Center: {x: 0, y: 0.68608165, z: 0}
+--- !u!114 &-8354673500277101189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8745489136304778608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14974bdaa9bdcc4f89d0c15b9e5cf17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conn: 0
+  Error: {fileID: 1831875223663665978}
+  connectio: {fileID: 0}
