@@ -14,7 +14,7 @@ public class connection : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Overlapcheck(transform.position, 30f);
+        Overlapcheck(transform.position, 10f);
     }
     void Overlapcheck(Vector3 center, float radius)
     {

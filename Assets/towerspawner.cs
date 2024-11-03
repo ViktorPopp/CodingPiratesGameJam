@@ -27,9 +27,12 @@ public class towerspawner : MonoBehaviour
                 {
                     if (hit.collider.gameObject.tag == "ground")
                     {
-                        New = Instantiate(obj, hit.point, Quaternion.identity);
-                        money_manager.money = money_manager.money -  10;
-                        New.transform.position = hit.point;
+                        if (money_manager.money > 99)
+                        {
+                            New = Instantiate(obj, hit.point, Quaternion.identity);
+                            money_manager.money = money_manager.money - 100;
+                            New.transform.position = hit.point;
+                        }
 
                     }
 

@@ -21,7 +21,7 @@ public class house_con : MonoBehaviour
         Error.SetActive(true); 
             
         
-        Overlapcheck(transform.position, 30f);
+        Overlapcheck(transform.position, 10f);
     }
     void Overlapcheck(Vector3 center, float radius)
     {
