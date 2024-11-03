@@ -4,15 +4,7 @@ public class Wirescript : MonoBehaviour
 {
     public GameObject objectToSpawn;
 
-    private void SpawnObjectAtMousePosition()
-    {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit hit;
-        if (Physics.Raycast(ray, out hit))
-        {
-            Instantiate(objectToSpawn, hit.point, Quaternion.identity);
-        }
-    }
+    
     [SerializeField] private GameObject first;
     [SerializeField] private GameObject second;
     public GameObject wire;
@@ -25,10 +17,7 @@ public class Wirescript : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            SpawnObjectAtMousePosition();
-        }
+        
 
         if (Input.GetMouseButtonDown(0))
         {
