@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using UnityEngine.SceneManagement;
 public class HouseSpawner : MonoBehaviour
 {
     public TMP_Text text;
@@ -11,7 +12,7 @@ public class HouseSpawner : MonoBehaviour
     private float R = 0;
     private float X = 0;
     private float Y = 32;
-    private float bb = 2;
+    public static float bb = 2;
     static public int connHouses;
     private GameObject House;
     //static public GameObject[] houseIdents = { };
@@ -33,10 +34,15 @@ public class HouseSpawner : MonoBehaviour
         R = UnityEngine.Random.Range(0, 360f);
         houseIndex = UnityEngine.Random.Range(0, houses.Length - 1);
         House = Instantiate(houses[houseIndex], new Vector3(X, 4.6f, Y), new Quaternion(0, R, 0, 0));
+        houseIdents.Add(House);
 
     }
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+            SceneManager.LoadScene(0);
+
+
         connHouses = 0;
  
         foreach (GameObject gobj in houseIdents)
@@ -46,12 +52,12 @@ public class HouseSpawner : MonoBehaviour
         }
         time += Time.deltaTime;
 
-        if (time >= interpolationPeriod)
+        if (time >= interpolationPeriod / connHouses && connHouses != 0)
         {
             time = 0.0f;
             
             SpawnHouse();
-            text.text = bb.ToString();
+            text.text = connHouses.ToString();
             bb++;
         }
     }
