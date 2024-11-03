@@ -4,15 +4,7 @@ public class Wirescript : MonoBehaviour
 {
     public GameObject objectToSpawn;
 
-    private void SpawnObjectAtMousePosition()
-    {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit hit;
-        if (Physics.Raycast(ray, out hit))
-        {
-            Instantiate(objectToSpawn, hit.point, Quaternion.identity);
-        }
-    }
+    
     [SerializeField] private GameObject first;
     [SerializeField] private GameObject second;
     public GameObject wire;
@@ -25,17 +17,12 @@ public class Wirescript : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            SpawnObjectAtMousePosition();
-        }
+        
 
         if (Input.GetMouseButtonDown(0))
         {
 
             ray = GetComponentInParent<Camera>().ScreenPointToRay(Input.mousePosition);
-
-
 
             if (Physics.Raycast(ray, out hit))
             {
@@ -50,7 +37,7 @@ public class Wirescript : MonoBehaviour
         }
         if (first && second)
         {
-            wire = Instantiate(wire, first.transform.position, new Quaternion(0, 0, 0, 0));
+            wire = Instantiate(wire, (first.transform.position + second.transform.position) / 2, new Quaternion(0, 0, 0, 0));
             //wire.transform.position = first.transform.position;
             wire.transform.localScale = new Vector3(0.01f, 0.01f, 0.01f);
             wire.transform.LookAt(second.transform.position, first.transform.position);
