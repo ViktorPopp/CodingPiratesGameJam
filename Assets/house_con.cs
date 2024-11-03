@@ -1,8 +1,10 @@
+using Unity.Mathematics;
 using UnityEngine;
 
 public class house_con : MonoBehaviour
 {
     public bool conn = false;
+    public GameObject Error;
     public connection connectio;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -13,6 +15,12 @@ public class house_con : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(conn)
+        Error.SetActive(false);
+        if(!conn)
+        Error.SetActive(true); 
+            
+        
         Overlapcheck(transform.position, 30f);
     }
     void Overlapcheck(Vector3 center, float radius)
