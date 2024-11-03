@@ -220,8 +220,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &20810652
 GameObject:
   m_ObjectHideFlags: 0
@@ -323,8 +323,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &36138104
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,8 +426,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &36773884
 GameObject:
   m_ObjectHideFlags: 0
@@ -529,8 +529,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &67821686
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,8 +632,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &125412089
 GameObject:
   m_ObjectHideFlags: 0
@@ -735,8 +735,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &173849018
 GameObject:
   m_ObjectHideFlags: 0
@@ -969,8 +969,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &222495716
 GameObject:
   m_ObjectHideFlags: 0
@@ -1072,8 +1072,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &234193306
 GameObject:
   m_ObjectHideFlags: 0
@@ -1175,8 +1175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &253203320
 GameObject:
   m_ObjectHideFlags: 0
@@ -1278,8 +1278,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &289269764
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,8 +1381,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &311068459
 GameObject:
   m_ObjectHideFlags: 0
@@ -1484,8 +1484,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &325695775
 GameObject:
   m_ObjectHideFlags: 0
@@ -1587,8 +1587,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1827,8 +1827,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &346328765
 GameObject:
   m_ObjectHideFlags: 0
@@ -1930,8 +1930,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &358239663
 GameObject:
   m_ObjectHideFlags: 0
@@ -2033,8 +2033,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &382278185
 GameObject:
   m_ObjectHideFlags: 0
@@ -2136,8 +2136,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &389386539
 GameObject:
   m_ObjectHideFlags: 0
@@ -2239,8 +2239,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -2463,8 +2463,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &452194220
 GameObject:
   m_ObjectHideFlags: 0
@@ -2566,8 +2566,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &478445940
 GameObject:
   m_ObjectHideFlags: 0
@@ -2669,8 +2669,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &479070977
 GameObject:
   m_ObjectHideFlags: 0
@@ -2772,8 +2772,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &489338853
 GameObject:
   m_ObjectHideFlags: 0
@@ -2875,8 +2875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &513860812
 GameObject:
   m_ObjectHideFlags: 0
@@ -2978,8 +2978,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &527578393
 GameObject:
   m_ObjectHideFlags: 0
@@ -3081,8 +3081,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &551297984
 GameObject:
   m_ObjectHideFlags: 0
@@ -3263,8 +3263,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &572249593
 GameObject:
   m_ObjectHideFlags: 0
@@ -3366,8 +3366,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &641659864
 GameObject:
   m_ObjectHideFlags: 0
@@ -3469,8 +3469,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &656953003
 GameObject:
   m_ObjectHideFlags: 0
@@ -3572,8 +3572,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &672009203
 GameObject:
   m_ObjectHideFlags: 0
@@ -3675,8 +3675,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &682140368
 GameObject:
   m_ObjectHideFlags: 0
@@ -3778,8 +3778,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &701954264
 GameObject:
   m_ObjectHideFlags: 0
@@ -3881,8 +3881,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &707182059
 GameObject:
   m_ObjectHideFlags: 0
@@ -3984,8 +3984,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &707557014
 GameObject:
   m_ObjectHideFlags: 0
@@ -4087,8 +4087,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &710450414
 GameObject:
   m_ObjectHideFlags: 0
@@ -4190,8 +4190,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &719238003
 GameObject:
   m_ObjectHideFlags: 0
@@ -4293,8 +4293,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &727637778
 GameObject:
   m_ObjectHideFlags: 0
@@ -4396,8 +4396,158 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
+--- !u!1 &753265561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 753265563}
+  - component: {fileID: 753265562}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &753265562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 753265561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099e8891212827646b032c386e261186, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gold: 50
+  goldText: {fileID: 1567863577}
+  cursor: {fileID: 0}
+  grid: {fileID: 173849018}
+  tiles:
+  - {fileID: 1866405834}
+  - {fileID: 1938039542}
+  - {fileID: 489338856}
+  - {fileID: 1907709981}
+  - {fileID: 910511179}
+  - {fileID: 1907621480}
+  - {fileID: 1118161630}
+  - {fileID: 358239666}
+  - {fileID: 786251161}
+  - {fileID: 1730839030}
+  - {fileID: 389386542}
+  - {fileID: 441089681}
+  - {fileID: 1239978267}
+  - {fileID: 1669579153}
+  - {fileID: 562401013}
+  - {fileID: 877459391}
+  - {fileID: 2087376238}
+  - {fileID: 914261846}
+  - {fileID: 222495719}
+  - {fileID: 1546820492}
+  - {fileID: 1822094223}
+  - {fileID: 641659867}
+  - {fileID: 727637781}
+  - {fileID: 682140371}
+  - {fileID: 125412092}
+  - {fileID: 2114878584}
+  - {fileID: 2107624781}
+  - {fileID: 1921760955}
+  - {fileID: 1266048773}
+  - {fileID: 1048034483}
+  - {fileID: 36138107}
+  - {fileID: 1257758847}
+  - {fileID: 719238006}
+  - {fileID: 2012388197}
+  - {fileID: 2100733386}
+  - {fileID: 2054375246}
+  - {fileID: 969709499}
+  - {fileID: 36773887}
+  - {fileID: 1769854976}
+  - {fileID: 2120721252}
+  - {fileID: 1135936079}
+  - {fileID: 1429755577}
+  - {fileID: 14195045}
+  - {fileID: 817445041}
+  - {fileID: 783746459}
+  - {fileID: 1394660024}
+  - {fileID: 346328768}
+  - {fileID: 701954267}
+  - {fileID: 1465206785}
+  - {fileID: 997164436}
+  - {fileID: 289269767}
+  - {fileID: 479070980}
+  - {fileID: 1224045224}
+  - {fileID: 707557017}
+  - {fileID: 1842093661}
+  - {fileID: 1930753896}
+  - {fileID: 208526031}
+  - {fileID: 1953917482}
+  - {fileID: 1414087167}
+  - {fileID: 1305893393}
+  - {fileID: 1659391743}
+  - {fileID: 513860815}
+  - {fileID: 1950759807}
+  - {fileID: 2048005085}
+  - {fileID: 572249596}
+  - {fileID: 1898145272}
+  - {fileID: 527578396}
+  - {fileID: 672009206}
+  - {fileID: 1384131952}
+  - {fileID: 710450417}
+  - {fileID: 2041608329}
+  - {fileID: 1803711583}
+  - {fileID: 1474755137}
+  - {fileID: 253203323}
+  - {fileID: 1374185758}
+  - {fileID: 1321094341}
+  - {fileID: 1877408248}
+  - {fileID: 325695778}
+  - {fileID: 707182062}
+  - {fileID: 234193309}
+  - {fileID: 1527537498}
+  - {fileID: 1689811337}
+  - {fileID: 452194223}
+  - {fileID: 1636189415}
+  - {fileID: 1069554026}
+  - {fileID: 1178013767}
+  - {fileID: 2122363332}
+  - {fileID: 382278188}
+  - {fileID: 1945198573}
+  - {fileID: 478445943}
+  - {fileID: 656953006}
+  - {fileID: 1264881612}
+  - {fileID: 1254327994}
+  - {fileID: 20810655}
+  - {fileID: 1390926057}
+  - {fileID: 345155203}
+  - {fileID: 1802766375}
+  - {fileID: 67821689}
+  - {fileID: 311068462}
+  - {fileID: 785005171}
+  towerToPlace: {fileID: 0}
+--- !u!4 &753265563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 753265561}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &783746456
 GameObject:
   m_ObjectHideFlags: 0
@@ -4499,8 +4649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &785005168
 GameObject:
   m_ObjectHideFlags: 0
@@ -4602,8 +4752,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &786251158
 GameObject:
   m_ObjectHideFlags: 0
@@ -4705,8 +4855,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &817445038
 GameObject:
   m_ObjectHideFlags: 0
@@ -4808,8 +4958,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &877459388
 GameObject:
   m_ObjectHideFlags: 0
@@ -4911,8 +5061,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &910511176
 GameObject:
   m_ObjectHideFlags: 0
@@ -5014,8 +5164,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &914261843
 GameObject:
   m_ObjectHideFlags: 0
@@ -5117,8 +5267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &917810281
 GameObject:
   m_ObjectHideFlags: 0
@@ -5353,8 +5503,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &997164433
 GameObject:
   m_ObjectHideFlags: 0
@@ -5456,8 +5606,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1048034480
 GameObject:
   m_ObjectHideFlags: 0
@@ -5559,8 +5709,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1069554023
 GameObject:
   m_ObjectHideFlags: 0
@@ -5662,8 +5812,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1118161627
 GameObject:
   m_ObjectHideFlags: 0
@@ -5765,8 +5915,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1135936076
 GameObject:
   m_ObjectHideFlags: 0
@@ -5868,8 +6018,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1178013764
 GameObject:
   m_ObjectHideFlags: 0
@@ -5971,8 +6121,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1224045221
 GameObject:
   m_ObjectHideFlags: 0
@@ -6074,8 +6224,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1239978264
 GameObject:
   m_ObjectHideFlags: 0
@@ -6177,8 +6327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1254327991
 GameObject:
   m_ObjectHideFlags: 0
@@ -6280,8 +6430,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1257758844
 GameObject:
   m_ObjectHideFlags: 0
@@ -6383,8 +6533,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1264881609
 GameObject:
   m_ObjectHideFlags: 0
@@ -6486,8 +6636,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1266048770
 GameObject:
   m_ObjectHideFlags: 0
@@ -6589,8 +6739,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1305893390
 GameObject:
   m_ObjectHideFlags: 0
@@ -6692,8 +6842,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1321094338
 GameObject:
   m_ObjectHideFlags: 0
@@ -6795,8 +6945,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1358390669
 GameObject:
   m_ObjectHideFlags: 0
@@ -7048,8 +7198,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1384131949
 GameObject:
   m_ObjectHideFlags: 0
@@ -7151,8 +7301,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1390926054
 GameObject:
   m_ObjectHideFlags: 0
@@ -7254,8 +7404,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1394660021
 GameObject:
   m_ObjectHideFlags: 0
@@ -7357,8 +7507,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1414087164
 GameObject:
   m_ObjectHideFlags: 0
@@ -7460,8 +7610,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1429755574
 GameObject:
   m_ObjectHideFlags: 0
@@ -7563,8 +7713,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1465206782
 GameObject:
   m_ObjectHideFlags: 0
@@ -7666,8 +7816,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1474755134
 GameObject:
   m_ObjectHideFlags: 0
@@ -7769,8 +7919,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1527537495
 GameObject:
   m_ObjectHideFlags: 0
@@ -7872,8 +8022,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1546820489
 GameObject:
   m_ObjectHideFlags: 0
@@ -7975,8 +8125,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1567863575
 GameObject:
   m_ObjectHideFlags: 0
@@ -8214,8 +8364,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1659391740
 GameObject:
   m_ObjectHideFlags: 0
@@ -8317,8 +8467,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1669579150
 GameObject:
   m_ObjectHideFlags: 0
@@ -8420,8 +8570,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1689325060
 GameObject:
   m_ObjectHideFlags: 0
@@ -8659,8 +8809,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1730839027
 GameObject:
   m_ObjectHideFlags: 0
@@ -8762,8 +8912,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1752107259
 GameObject:
   m_ObjectHideFlags: 0
@@ -8968,8 +9118,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1802766372
 GameObject:
   m_ObjectHideFlags: 0
@@ -9071,8 +9221,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1803711580
 GameObject:
   m_ObjectHideFlags: 0
@@ -9174,8 +9324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1822094220
 GameObject:
   m_ObjectHideFlags: 0
@@ -9277,8 +9427,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1842093658
 GameObject:
   m_ObjectHideFlags: 0
@@ -9380,8 +9530,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1866405831
 GameObject:
   m_ObjectHideFlags: 0
@@ -9483,8 +9633,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1877408245
 GameObject:
   m_ObjectHideFlags: 0
@@ -9586,8 +9736,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1898145269
 GameObject:
   m_ObjectHideFlags: 0
@@ -9689,8 +9839,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1907621477
 GameObject:
   m_ObjectHideFlags: 0
@@ -9792,8 +9942,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1907709978
 GameObject:
   m_ObjectHideFlags: 0
@@ -9895,8 +10045,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1921760952
 GameObject:
   m_ObjectHideFlags: 0
@@ -9998,8 +10148,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1930753893
 GameObject:
   m_ObjectHideFlags: 0
@@ -10101,8 +10251,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1938039539
 GameObject:
   m_ObjectHideFlags: 0
@@ -10204,8 +10354,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1945198570
 GameObject:
   m_ObjectHideFlags: 0
@@ -10307,8 +10457,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1950759804
 GameObject:
   m_ObjectHideFlags: 0
@@ -10410,8 +10560,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &1953917479
 GameObject:
   m_ObjectHideFlags: 0
@@ -10513,8 +10663,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2012388194
 GameObject:
   m_ObjectHideFlags: 0
@@ -10616,8 +10766,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2041608326
 GameObject:
   m_ObjectHideFlags: 0
@@ -10719,8 +10869,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2048005082
 GameObject:
   m_ObjectHideFlags: 0
@@ -10822,8 +10972,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2054375243
 GameObject:
   m_ObjectHideFlags: 0
@@ -10925,8 +11075,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2087376235
 GameObject:
   m_ObjectHideFlags: 0
@@ -11028,8 +11178,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2100733383
 GameObject:
   m_ObjectHideFlags: 0
@@ -11131,8 +11281,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2107624778
 GameObject:
   m_ObjectHideFlags: 0
@@ -11234,8 +11384,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2114878581
 GameObject:
   m_ObjectHideFlags: 0
@@ -11337,8 +11487,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2120721249
 GameObject:
   m_ObjectHideFlags: 0
@@ -11440,8 +11590,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &2122363329
 GameObject:
   m_ObjectHideFlags: 0
@@ -11543,8 +11693,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOccupied: 0
-  green: {r: 0.8050314, g: 0.09366703, b: 0.32964718, a: 1}
-  red: {r: 0.3315439, g: 0.84276724, b: 0.119259395, a: 1}
+  green: {r: 0, g: 1, b: 0.05245018, a: 1}
+  red: {r: 1, g: 0.09119487, b: 0.09119487, a: 1}
 --- !u!1 &945565686079313584
 GameObject:
   m_ObjectHideFlags: 0
@@ -11652,6 +11802,7 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 173849019}
+  - {fileID: 753265563}
   - {fileID: 1752107263}
   - {fileID: 551297987}
   - {fileID: 1358390671}
