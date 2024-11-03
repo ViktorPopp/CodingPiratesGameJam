@@ -4,20 +4,26 @@ public class GameManager : MonoBehaviour
 {
     public int gold;
     public TMPro.TMP_Text goldText;
-    [SerializeField] Tower towerToPlace;
+    public CustomCursor cursor;
     public GameObject grid;
+
+    [SerializeField] private Tower towerToPlace;
 
     void Update()
     {
         goldText.text = "Gold: " + gold.ToString();
     }
 
-    public void BuyTower(Tower type)
+    public void BuyTower(Tower tower)
     {
-        if (gold >= type.cost)
+        if (gold >= tower.cost)
         {
-            gold -= type.cost;
-            towerToPlace = type;
+            cursor.gameObject.SetActive(true);
+            cursor.GetComponent<MeshFilter>().mesh = tower.GetComponent<MeshFilter>().mesh;
+            Cursor.visible = false;
+
+            gold -= tower.cost;
+            towerToPlace = tower;
             grid.SetActive(true);
         }
     }
