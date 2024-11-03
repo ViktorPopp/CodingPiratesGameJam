@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 330585548}
   - component: {fileID: 330585549}
   - component: {fileID: 330585550}
+  - component: {fileID: 330585551}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -406,6 +407,21 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &330585551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330585543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d187920ae185340408bf15bf8fc92301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  first: {fileID: 0}
+  second: {fileID: 0}
+  wire: {fileID: 8169122776234774180, guid: 7cc8e0b33bfd089428f9d2c48beaf125, type: 3}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,6 +847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54d32b92defce694b820ea0ad15998fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  houseIndex: 0
   houses:
   - {fileID: 6709637285481188418, guid: d9231b61308bce1479ebf2f20f819004, type: 3}
   - {fileID: 1380131798478281083, guid: 66fdb558aafc36745b293689d7853c17, type: 3}
@@ -1681,9 +1698,9 @@ SceneRoots:
   - {fileID: 7493745002614022456}
   - {fileID: 2259134264073900453}
   - {fileID: 4986749687969032118}
-  - {fileID: 543078141}
   - {fileID: 1694379663}
   - {fileID: 1701036529}
   - {fileID: 5403117525343233998}
   - {fileID: 543450651688957694}
   - {fileID: 1769443007}
+  - {fileID: 543078141}
